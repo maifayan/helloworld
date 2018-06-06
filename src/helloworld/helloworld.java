@@ -4,7 +4,7 @@ public class helloworld {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-        System.out.println("Hello World 我想改改，可以吗，不可以吗");
+        System.out.println("Hello World 改改改 ， 就知道改");
 	}
 
 }
